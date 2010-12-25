@@ -5,3 +5,5 @@ tmp/**/*
 *.class
 *.pyc
 *.pyo
+/tmp
+/log
